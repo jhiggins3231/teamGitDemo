@@ -1,3 +1,6 @@
+.spin {
+    color: purple;
+}
 .spin:hover {
-    transform: rotate(360);
+        transform: scale(.25) rotate(360deg);
 }
