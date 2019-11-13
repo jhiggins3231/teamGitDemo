@@ -4,3 +4,10 @@
 .spin:hover {
         transform: scale(.25) rotate(360deg);
 }
+.panda {
+    transition: transform .4s ease-in-out;
+    margin-left: 250px;
+}
+.panda:hover{
+    transform: scale(5) rotate(360deg);
+}
